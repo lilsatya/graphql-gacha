@@ -16,7 +16,7 @@ localhost:3000/graphql
 ```
 
 use this query:
-```JSON
+```
 {
   pull(numPull:10) {
     rank,
