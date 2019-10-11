@@ -17,7 +17,7 @@ var chars = [{
   rank: 'R',
   name: 'Rare',
   power: 100,
-  rate: 50
+  rate: 100
 }];
 
 module.exports = chars;
